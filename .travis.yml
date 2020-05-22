@@ -1,3 +1,5 @@
 env: 
   global: 
-  - MAIN=main
+    - MAIN=main 
+
+script: echo one
