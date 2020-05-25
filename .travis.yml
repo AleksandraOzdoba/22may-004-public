@@ -1,8 +1,3 @@
-env:
-  global:
+env: 
+  global: 
   - MAIN=main
-
-import: 
-- source: other.yml 
-  mode: merge
-script: echo one
